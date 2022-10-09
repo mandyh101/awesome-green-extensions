@@ -95,3 +95,18 @@ Available on Chrome and Edge.
 ### Enable JavaScript
 
 ### Adblock for Youtube
+
+## DISCONTINUED CO2 emissions trackers and green website raters
+
+Below you'll find a list of extensions that are no longer in developement or being maintained. These can be helpful to check out, especially if you''re looking at building your own climate friendly extension!
+
+### Careplane
+
+### Description
+
+*This extension is not currently maintained or is not currently working*
+Real-time carbon footprints inserted into your favorite travel search sites.
+### Extension URL
+- Chrome: https://chrome.google.com/webstore/detail/careplane/nnfhekhgpccbbfcklllodpnlfakndkgl/related
+### Extension last updated
+4 September 2012

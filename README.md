@@ -8,6 +8,7 @@ It's conceived as a valuable resource in its own right, and as research and deve
 - [Browser energy consumption optimisers](#browser-energy-consumption-optimisers)
 - [Carbon offset generators](#carbon-offset-generators)
 - [Graceful degradation tools](#graceful-degradation-tools)
+- [Userscripts](#userscripts)
 
 ## CO2 emissions trackers and green website raters
 
@@ -520,5 +521,30 @@ Quickly make exceptions to content settings (JavaScript, cookies, images, plug-i
 June 18, 2017
 
 * * *
+
+# Userscripts
+Usercripts are like the wild west of browser extension :cowboy_hat_face: Like browser extensions, userscripts can help you to customise your browser experience. They can be riskier to use (there's no vetting process for userscript vendors as there is for browser extension vendors). But they are also much more versatile. Below you'll find a collection of userscripts that can open more possibilities to help you reduce the evironmental impact of your browsing. 
+
+Contributions to this collection are welcome! For more information on userscripts,risks and tips for use, here's a helpful guide [TODO hyperlink guide to a resource or seperate]
+
+## CPU related userscripts
+
+### YouTube CPU Tamer by AnimationFame
+#### Description
+Use to reduce your browsers energy impact when playing YouTube videos (Inspired by kona's <a href="https://greasyfork.org/en/scripts/418283-youtube-cpu-tamer">YouTube CPU Tamer </a>- last updated 2 Jan 2021).
+- <a href="https://greasyfork.org/en/scripts/431573-youtube-cpu-tamer-by-animationframe">Click here for more info and installation</a>
+#### Version / last updated
+2022.12.28.1 / 28 December 2022
+#### Total installs
+8,533
+
+### Amazon CPU Tamer 
+#### Description
+Use to reduce CPU usuage on Amazon shopping pages.
+- <a href="https://greasyfork.org/en/scripts/415464-amazon-cpu-tamer">Click here for more info and installation</a>
+#### Version / last updated
+2022.12.28.1 / 28 December 2022
+#### Total installs
+8,533
 
 
